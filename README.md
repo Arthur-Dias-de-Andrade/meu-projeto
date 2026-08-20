@@ -28,4 +28,4 @@ Curso Básico de HTML
 20/08/2026
 
 ## Conflito Controlado
-Teste de conflito controlado
+Teste de conflito controlada
