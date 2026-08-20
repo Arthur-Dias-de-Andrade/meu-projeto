@@ -1,2 +1,8 @@
 # Aprendizados
-Neste projeto, foram aprendidos na prática os conceitos de branches, pull request, conflito controlado e muitos outros.
+Neste projeto, foram aprendidos na prática os conceitos de branches, pull requests, conflitos controlados e muitos outros recursos importantes do Git e do GitHub. Além de compreender a parte teórica, foi possível aplicar esses conceitos em um projeto real, o que tornou o aprendizado mais claro e significativo.
+
+Durante o desenvolvimento, também foi possível entender melhor a importância de manter um histórico organizado das alterações, realizar commits de forma adequada e utilizar branches para trabalhar em diferentes funcionalidades sem comprometer a versão principal do projeto. A experiência com pull requests ajudou a compreender como funciona o processo de revisão e integração de mudanças em um projeto colaborativo.
+
+Outro ponto importante foi a experiência com conflitos. Mesmo sendo uma situação que pode gerar dificuldades, resolver um conflito de forma controlada permitiu entender melhor como o Git identifica alterações diferentes e como o desenvolvedor deve analisar cada situação antes de escolher quais modificações devem permanecer.
+
+De forma geral, o projeto foi importante para transformar os conhecimentos sobre Git e GitHub em uma experiência prática. Além de aprender novos comandos e funcionalidades, foi possível desenvolver uma maior organização no processo de desenvolvimento e perceber como essas ferramentas facilitam o controle de versões, a colaboração entre desenvolvedores e a manutenção de projetos ao longo do tempo.
