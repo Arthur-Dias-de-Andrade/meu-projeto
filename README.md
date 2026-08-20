@@ -27,3 +27,5 @@ Arthur Dias de Andrade
 Curso Básico de HTML
 20/08/2026
 
+## Conflito Controlado
+Teste de conflito controlada
